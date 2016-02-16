@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	A .git directory is created. To create commits that save the status of the files in the repository at a given time.
+	A git directory is created to create commits that save the status of the files in the repository at a given time.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
