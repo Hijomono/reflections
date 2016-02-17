@@ -6,3 +6,14 @@ How is the staging area different from the working directory and the repository?
 
 	It allows you to choose which files' status you'll add to a commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	You can add to it just the files whose changes you want to commit, and you can see the difference between the current commit and the staged state.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you want to try new features that may cause bugs
+
+How do the diagrams help you visualize the branch structure?
+
+	The help understanding reachability and which branch owns which commit
